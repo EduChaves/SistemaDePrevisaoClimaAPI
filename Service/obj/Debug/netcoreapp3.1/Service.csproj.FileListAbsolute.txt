@@ -1,0 +1,16 @@
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Infra.CrossCutting.dll
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Infra.Data.dll
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Infra.CrossCutting.pdb
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\bin\Debug\netcoreapp3.1\Infra.Data.pdb
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\edurd\Desktop\SistemaDePrevisaoDeClima\SistemaPrevisaoClima\Service\obj\Debug\netcoreapp3.1\Service.pdb
